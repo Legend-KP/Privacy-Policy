@@ -7,6 +7,10 @@
     {
       "source": "/terms-and-conditions",
       "destination": "/terms-and-conditions.html"
+    },
+    {
+      "source": "/faqs",
+      "destination": "/faqs.html"
     }
   ]
 }
